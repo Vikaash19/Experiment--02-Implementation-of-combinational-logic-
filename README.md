@@ -43,8 +43,6 @@ RegisterNumber: 23013426
 ## RTL:
 ![exp2 RTL](https://github.com/Vikaash19/Experiment--02-Implementation-of-combinational-logic-/assets/148514589/97abbacf-6fc0-46aa-9657-fd7e4bb5aba1)
 
-## Truth table:
-
 ## Timing Diagram:
 ![Exp2 timing ](https://github.com/Vikaash19/Experiment--02-Implementation-of-combinational-logic-/assets/148514589/f23b2b51-6f77-4b04-9277-5851b6d3a6d6)
 
