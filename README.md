@@ -1,13 +1,10 @@
 # Implementation-of-combinational-logic
-
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
- 
+F2=xy’z+x’y’z+w’xy+wx’y+wxy 
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher,Software – Quartus prime
-
 ## Theory:
 Logic gates are electronic circuits which perform logical functions on one or more inputs to
 produce one output.
@@ -34,10 +31,8 @@ RegisterNumber: 23013426
 ~~~
 ## CODE:
 ![exp2 code](https://github.com/Vikaash19/Experiment--02-Implementation-of-combinational-logic-/assets/148514589/82e29af8-4b36-4c08-971e-8590ff0011ce)
-
 ## RTL:
 ![exp2 RTL](https://github.com/Vikaash19/Experiment--02-Implementation-of-combinational-logic-/assets/148514589/97abbacf-6fc0-46aa-9657-fd7e4bb5aba1)
-
 ## Timing Diagram:
 ![Exp2 timing ](https://github.com/Vikaash19/Experiment--02-Implementation-of-combinational-logic-/assets/148514589/f23b2b51-6f77-4b04-9277-5851b6d3a6d6)
 
