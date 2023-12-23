@@ -7,9 +7,7 @@ To implement the given logic function verify its operation in Quartus using Veri
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
-
+Hardware – PCs, Cyclone II , USB flasher,Software – Quartus prime
 
 ## Theory:
 Logic gates are electronic circuits which perform logical functions on one or more inputs to
